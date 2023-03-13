@@ -2,6 +2,7 @@
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="100"/>
     <div id="badges">
       <a href="www.linkedin.com/in/alex-ustinov">
+        <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
     </div>
